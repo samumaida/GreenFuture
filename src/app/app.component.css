@@ -13,6 +13,8 @@ body {
   position: fixed;
   height: 100%;
   width: 100%;
+  scale: .5;
+  margin-top: -9em;
 }
 h1 {
   /* Title */
